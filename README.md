@@ -2,7 +2,8 @@
 
 An interactive **Power BI dashboard** designed to analyze sales, profit, COGS, units sold, products, segments, countries, and sales trends.
 
-<img width="1170" height="663" alt="Bajaj Finance Dashboard" src="https://github.com/user-attachments/assets/a6e27dfd-4849-4e42-9adc-31c45142db11" />
+<img width="1171" height="664" alt="Bajaj Finance Dashboard" src="https://github.com/user-attachments/assets/c98c8940-d138-450f-9409-2e2716f3e956" />
+
 
 
 ## 🚀 Project Overview
